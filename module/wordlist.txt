@@ -1,2 +1,2 @@
-add your wordlist here
+passcode.txt
 minim of 5 line
